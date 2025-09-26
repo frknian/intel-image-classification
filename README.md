@@ -268,3 +268,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 4. [Image Classification Best Practices](https://arxiv.org/abs/1905.11946)
 
 ---
+https://www.kaggle.com/code/furkannan/intel-image-classification
